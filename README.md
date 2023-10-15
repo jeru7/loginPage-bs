@@ -14,10 +14,6 @@ Feel free to visit the live version of the tribute page: [Visit site](https://je
 
 ![Screenshot](./images/loginFull.png "Full photo of the site")
 
-### Desktop shot
-
-![Screenshot](./images/loginDesk.png "Desktop photo of the site")
-
 ### Mobile shot
 
 ![Screenshot](./images/loginMob.png "Mobile photo of the site")
